@@ -1,0 +1,369 @@
+Hora, Tipo Registro, Mensaje,Robot
+
+2023-09-04 08:24:25.839581, TRACE, Inicio Ejecucion, EDSA_003_CambioCuenta
+2023-09-04 08:24:25.889583, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-04 08:24:26.020645, TRACE, Fin del modulo Init ,InitConfig
+2023-09-04 08:24:26.078808, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 08:24:32.077083, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 08:24:32.142695, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-04 08:24:32.208394, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-04 08:24:32.260393, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-04 08:24:32.323195, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-04 08:25:16.941338, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-04 08:25:17.014488, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-04 08:25:30.733907, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-04 08:25:30.777878, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-04 08:25:30.830478, TRACE, Fin del modulo Init ,Init
+2023-09-04 08:25:52.805420, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-04 08:25:54.429881, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-04 08:26:12.548207, TRACE, Inicio del modulo Process ,Process
+2023-09-04 08:26:12.662557, INFO, INICIO A EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 08:26:14.527698, INFO, FIN  EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 08:26:14.669145, TRACE, Fin del modulo Process ,Process
+2023-09-04 08:27:30.231680, TRACE, Inicio del modulo Process ,Process
+2023-09-04 08:27:30.353556, INFO, INICIO A EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 08:27:31.625088, INFO, FIN  EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 08:27:31.753272, TRACE, Fin del modulo Process ,Process
+2023-09-04 08:28:11.512894, TRACE, Inicio del modulo Process ,Process
+2023-09-04 08:28:11.599020, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 08:28:14.421905, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 08:28:14.478197, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 08:28:17.512674, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-09-04 08:28:18.413803, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-09-04 08:28:18.618235, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 08:28:18.676688, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 08:28:19.772436, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 08:28:19.831936, INFO, INICIO A EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 08:28:23.201805, INFO, FIN  EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 08:28:23.261057, INFO, INICIO MODULO DATOS DE PAGO ,DatosDePago
+2023-09-04 08:28:31.321569, INFO, FIN MODULO DATOS DE PAGO ,DatosDePago
+2023-09-04 08:28:31.502657, TRACE, Fin del modulo Process ,Process
+2023-09-04 08:30:49.495803, TRACE, Inicio del modulo Process ,Process
+2023-09-04 08:30:49.619822, INFO, INICIO MODULO ALTA DE PAGOS ,AltaDePago
+2023-09-04 08:31:05.857661, INFO, FIN MODULO ALTA DE PAGOS ,AltaDePago
+2023-09-04 08:31:05.969736, TRACE, Fin del modulo Process ,Process
+2023-09-04 08:31:31.741971, TRACE, Inicio del modulo Process ,Process
+2023-09-04 08:31:31.980523, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 08:31:35.573091, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 08:31:35.680681, TRACE, Fin del modulo Process ,Process
+2023-09-04 08:31:58.305495, TRACE, Inicio del modulo Process ,Process
+2023-09-04 08:31:58.465061, INFO, Inicio del modulo productos contratados ,ProductosContratados
+2023-09-04 08:32:37.625421, INFO, Fin del modulo productos contratados ,ProductosContratados
+2023-09-04 08:32:37.720536, TRACE, Fin del modulo Process ,Process
+2023-09-04 08:38:55.203022, TRACE, Inicio del modulo Process ,Process
+2023-09-04 08:38:55.326743, INFO, Inicio del modulo productos contratados ,ProductosContratados
+2023-09-04 08:39:57.915253, ERROR, No he encontrado el modulo de productos contratados ,ProductosContratados
+2023-09-04 08:39:58.125426, INFO, Fin del modulo productos contratados ,ProductosContratados
+2023-09-04 08:39:58.300190, TRACE, Fin del modulo Process ,Process
+2023-09-04 08:40:34.930705, TRACE, Inicio del modulo Process ,Process
+2023-09-04 08:40:59.365487, TRACE, Fin del modulo Process ,Process
+2023-09-04 09:01:00.008045, TRACE, Inicio del modulo Process ,Process
+2023-09-04 09:01:00.228512, INFO, INICIO MODULO EMAIL ,Email
+2023-09-04 09:01:55.251887, INFO, FIN MODULO EMAIL ,Email
+2023-09-04 09:01:55.456971, TRACE, Fin del modulo Process ,Process
+2023-09-04 09:03:20.612229, TRACE, Inicio del modulo Process ,Process
+2023-09-04 09:03:20.872396, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 09:03:23.142228, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 09:03:23.247149, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 09:03:24.751999, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 09:03:24.946967, TRACE, Fin del modulo Process ,Process
+2023-09-04 09:06:44.781748, TRACE, Inicio del modulo Process ,Process
+2023-09-04 09:06:45.128262, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-04 09:06:45.301418, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-09-04 09:06:45.362050, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-04 09:06:45.451584, TRACE, Fin del modulo Process ,Process
+2023-09-04 09:45:20.595019, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-04 09:45:22.249868, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-04 09:45:48.324541, TRACE, Inicio del modulo Process ,Process
+2023-09-04 09:45:48.684758, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-04 09:45:48.799705, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-09-04 09:45:48.874633, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-04 09:45:49.050200, INFO, "Incio del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-04 09:45:49.144424, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-04 09:45:51.814652, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-04 09:45:51.894925, INFO, "Fin del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-04 09:45:51.970842, TRACE, Fin del modulo Process ,Process
+2023-09-04 11:03:28.974396, TRACE, Incio del modulo Init ,Init
+
+2023-09-04 11:03:29.083727, TRACE, Inicio Ejecucion, EDSA_003_CambioCuenta
+2023-09-04 11:03:29.152942, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-04 11:03:29.350383, TRACE, Fin del modulo Init ,InitConfig
+2023-09-04 11:03:29.423396, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 11:03:37.754576, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 11:03:37.822866, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-04 11:03:40.611994, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-04 11:03:40.669128, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-04 11:03:40.732271, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-04 11:04:23.572152, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-04 11:04:23.631972, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-04 11:04:36.728522, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-04 11:04:36.766624, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-04 11:04:36.806150, TRACE, Fin del modulo Init ,Init
+2023-09-04 11:04:37.204546, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-04 11:04:39.339360, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-04 11:04:39.976056, TRACE, Inicio del modulo Process ,Process
+2023-09-04 11:04:40.056138, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-04 11:04:41.186393, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-04 11:04:41.281354, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:04:43.535330, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:04:43.605400, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 11:05:01.703069, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-09-04 11:05:02.619593, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-09-04 11:05:02.816250, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 11:05:02.913024, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:05:05.042454, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:05:05.101942, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 11:05:23.166502, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-09-04 11:05:24.606309, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-09-04 11:05:26.034269, INFO, "Intento de click en Buscar numero"+3+" de 10" ,Buscar_Cliente
+2023-09-04 11:05:27.466767, INFO, "Intento de click en Buscar numero"+4+" de 10" ,Buscar_Cliente
+2023-09-04 11:05:28.894891, INFO, "Intento de click en Buscar numero"+5+" de 10" ,Buscar_Cliente
+2023-09-04 11:05:30.335438, INFO, "Intento de click en Buscar numero"+6+" de 10" ,Buscar_Cliente
+2023-09-04 11:05:31.779641, INFO, "Intento de click en Buscar numero"+7+" de 10" ,Buscar_Cliente
+2023-09-04 11:05:33.225181, INFO, "Intento de click en Buscar numero"+8+" de 10" ,Buscar_Cliente
+2023-09-04 11:05:34.659912, INFO, "Intento de click en Buscar numero"+9+" de 10" ,Buscar_Cliente
+2023-09-04 11:05:36.093342, INFO, "Intento de click en Buscar numero"+10+" de 10" ,Buscar_Cliente
+2023-09-04 11:05:36.160726, INFO, "El cliente no existe" ,Buscar_Cliente
+2023-09-04 11:09:15.578279, TRACE, Inicio del modulo Process ,Process
+2023-09-04 11:09:15.668198, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:09:23.587097, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:09:23.641442, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 11:09:41.599581, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-09-04 11:09:42.540854, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-09-04 11:09:42.733847, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 11:09:42.796144, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 11:09:43.883154, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 11:09:43.959441, INFO, INICIO A EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 11:09:47.870144, INFO, FIN  EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 11:09:47.997550, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:09:55.967210, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:09:56.028127, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 11:10:14.016267, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-09-04 11:10:14.940945, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-09-04 11:10:15.132673, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 11:10:15.198853, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 11:10:16.286286, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 11:10:16.348139, INFO, INICIO A EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 11:10:19.773019, INFO, FIN  EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 11:10:19.906438, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:10:24.744656, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:10:24.805310, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 11:10:42.777351, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-09-04 11:10:43.700249, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-09-04 11:10:43.877163, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 11:10:48.971063, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 11:10:50.079098, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 11:10:50.141928, INFO, INICIO A EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 11:10:51.442679, INFO, FIN  EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 11:10:51.578809, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:10:59.498198, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:10:59.557499, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 11:11:17.549719, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-09-04 11:11:18.472204, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-09-04 11:11:18.652147, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 11:11:18.711735, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 11:11:19.795113, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 11:11:19.857505, INFO, INICIO A EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 11:11:22.897700, INFO, FIN  EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 11:11:23.050428, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:11:31.019896, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:11:31.085023, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 11:11:38.437452, ERROR, "Error inesperado" ,Buscar_Cliente
+2023-09-04 11:17:38.289616, TRACE, Incio del modulo Init ,Init
+
+2023-09-04 11:17:38.392770, TRACE, Inicio Ejecucion, EDSA_003_CambioCuenta
+2023-09-04 11:17:38.459713, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-04 11:17:38.599522, TRACE, Fin del modulo Init ,InitConfig
+2023-09-04 11:17:38.661177, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 11:17:46.487303, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 11:17:46.550778, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-04 11:17:46.609300, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-04 11:17:46.662930, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-04 11:17:46.718888, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-04 11:18:22.029814, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-04 11:18:22.110048, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-04 11:18:32.404728, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-04 11:18:32.450774, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-04 11:18:32.492890, TRACE, Fin del modulo Init ,Init
+2023-09-04 11:28:09.077188, TRACE, Incio del modulo Init ,Init
+
+2023-09-04 11:28:09.174596, TRACE, Inicio Ejecucion, EDSA_003_CambioCuenta
+2023-09-04 11:28:09.228815, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-04 11:28:09.397342, TRACE, Fin del modulo Init ,InitConfig
+2023-09-04 11:28:09.470220, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 11:28:15.570414, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 11:28:15.644029, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-04 11:28:18.023549, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-04 11:28:18.085889, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-04 11:28:18.148161, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-04 11:28:57.619688, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-04 11:28:57.676027, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-04 11:29:10.069948, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-04 11:29:10.108450, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-04 11:29:10.147355, TRACE, Fin del modulo Init ,Init
+2023-09-04 11:29:40.290261, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-04 11:29:41.971040, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-04 11:29:55.252769, TRACE, Inicio del modulo Process ,Process
+2023-09-04 11:29:55.325511, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-04 11:29:56.346276, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-04 11:29:56.435363, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:30:04.290249, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 11:30:04.356879, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 11:30:19.986109, ERROR, "Error inesperado" ,Buscar_Cliente
+2023-09-04 11:34:17.137352, TRACE, Incio del modulo Init ,Init
+
+2023-09-04 11:34:17.218870, TRACE, Inicio Ejecucion, EDSA_003_CambioCuenta
+2023-09-04 11:34:17.269866, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-04 11:34:17.407374, TRACE, Fin del modulo Init ,InitConfig
+2023-09-04 11:34:17.464903, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 11:34:23.562958, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 11:34:23.620811, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-04 11:34:23.687465, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-04 11:34:23.747430, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-04 11:34:23.806022, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-04 11:34:59.035093, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-04 11:34:59.104077, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-04 11:35:11.799548, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-04 11:35:11.838657, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-04 11:35:11.874625, TRACE, Fin del modulo Init ,Init
+2023-09-04 14:12:00.445468, TRACE, Incio del modulo Init ,Init
+
+2023-09-04 14:12:00.543785, TRACE, Inicio Ejecucion, EDSA_003_CambioCuenta
+2023-09-04 14:12:00.593890, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-04 14:12:00.914897, TRACE, Fin del modulo Init ,InitConfig
+2023-09-04 14:12:00.981820, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 14:12:07.569193, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 14:12:07.639079, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-04 14:12:10.497285, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-04 14:12:10.552375, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-04 14:12:10.607576, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-04 14:12:52.771449, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-04 14:12:52.837285, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-04 14:13:03.631655, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-04 14:13:03.672859, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-04 14:13:03.713279, TRACE, Fin del modulo Init ,Init
+2023-09-04 14:13:04.106924, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-04 14:13:05.562396, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-04 14:13:06.209861, TRACE, Inicio del modulo Process ,Process
+2023-09-04 14:13:06.301105, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:13:07.406959, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:13:07.460724, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 14:13:13.432736, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 14:13:13.484484, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarProductos
+2023-09-04 14:13:15.638709, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarProductos
+2023-09-04 14:13:15.706400, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 14:13:33.802877, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-09-04 14:13:34.708604, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-09-04 14:13:34.905966, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 14:13:34.967957, INFO, INICIO A EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 14:13:46.026672, INFO, FIN  EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 14:13:46.180938, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:13:47.265109, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:13:47.312953, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 14:13:55.257498, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 14:13:55.307231, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarProductos
+2023-09-04 14:13:57.479804, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarProductos
+2023-09-04 14:13:57.552580, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 14:16:02.383756, TRACE, Inicio del modulo Process ,Process
+2023-09-04 14:16:02.468940, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:16:03.558668, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:16:03.605497, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 14:16:05.740408, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 14:16:05.789507, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarProductos
+2023-09-04 14:16:07.922386, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarProductos
+2023-09-04 14:16:07.990098, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 14:16:25.992004, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-09-04 14:16:26.917519, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-09-04 14:16:27.106685, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 14:16:27.166693, INFO, INICIO A EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 14:16:36.137640, INFO, FIN  EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 14:16:36.264230, TRACE, Fin del modulo Process ,Process
+2023-09-04 14:18:50.093008, TRACE, Inicio del modulo Process ,Process
+2023-09-04 14:18:50.201684, INFO, INICIO MODULO DATOS DE PAGO ,DatosDePago
+2023-09-04 14:18:59.208119, INFO, FIN MODULO DATOS DE PAGO ,DatosDePago
+2023-09-04 14:18:59.276840, INFO, INICIO MODULO ALTA DE PAGOS ,AltaDePago
+2023-09-04 14:19:15.458904, INFO, FIN MODULO ALTA DE PAGOS ,AltaDePago
+2023-09-04 14:19:15.508874, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:19:16.678267, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:19:16.737399, INFO, Inicio del modulo productos contratados ,ProductosContratados
+2023-09-04 14:19:55.841484, INFO, Fin del modulo productos contratados ,ProductosContratados
+2023-09-04 14:19:55.940074, TRACE, Fin del modulo Process ,Process
+2023-09-04 14:21:01.376631, TRACE, Inicio del modulo Process ,Process
+2023-09-04 14:21:01.505481, INFO, Inicio del modulo productos contratados ,ProductosContratados
+2023-09-04 14:22:03.942935, ERROR, No he encontrado el modulo de productos contratados ,ProductosContratados
+2023-09-04 14:22:04.003132, INFO, Fin del modulo productos contratados ,ProductosContratados
+2023-09-04 14:22:04.107130, TRACE, Fin del modulo Process ,Process
+2023-09-04 14:22:38.385746, TRACE, Inicio del modulo Process ,Process
+2023-09-04 14:23:01.726556, TRACE, Fin del modulo Process ,Process
+2023-09-04 14:25:03.371463, TRACE, Inicio del modulo Process ,Process
+2023-09-04 14:25:03.562672, INFO, INICIO MODULO EMAIL ,Email
+2023-09-04 14:25:57.387682, INFO, FIN MODULO EMAIL ,Email
+2023-09-04 14:25:57.474260, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:26:05.699848, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:26:05.749281, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 14:26:13.715071, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 14:26:13.778134, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-04 14:26:13.843503, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-09-04 14:26:13.879504, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-04 14:26:13.947515, INFO, "Incio del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-04 14:26:14.005503, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-04 14:26:16.458369, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-04 14:26:16.496081, INFO, "Fin del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-04 14:26:16.545791, TRACE, Fin del modulo Process ,Process
+2023-09-04 14:28:34.969868, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-04 14:28:37.342706, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-04 14:33:06.652992, TRACE, Incio del modulo Init ,Init
+
+2023-09-04 14:33:06.743374, TRACE, Inicio Ejecucion, EDSA_003_CambioCuenta
+2023-09-04 14:33:06.796762, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-04 14:33:06.954049, TRACE, Fin del modulo Init ,InitConfig
+2023-09-04 14:33:07.023850, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 14:33:13.810260, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-04 14:33:13.880115, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-04 14:33:16.500146, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-04 14:33:16.557234, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-04 14:33:16.620140, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-04 14:33:57.202700, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-04 14:33:57.259256, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-04 14:34:11.004932, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-04 14:34:11.045034, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-04 14:34:11.086076, TRACE, Fin del modulo Init ,Init
+2023-09-04 14:34:11.484760, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-04 14:34:13.420886, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-04 14:34:14.064239, TRACE, Inicio del modulo Process ,Process
+2023-09-04 14:34:14.139627, INFO, "Inicio del modulo Work Data" ,Work_Data
+2023-09-04 14:34:15.294861, INFO, "Fin del modulo Work Data" ,Work_Data
+2023-09-04 14:34:15.396019, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:34:17.347916, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:34:17.410255, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 14:34:19.580935, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 14:34:19.628668, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarProductos
+2023-09-04 14:34:21.810732, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarProductos
+2023-09-04 14:34:21.879931, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 14:34:39.977610, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-09-04 14:34:40.893261, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-09-04 14:34:41.084470, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-04 14:34:41.146074, INFO, INICIO A EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 14:34:51.640751, INFO, FIN  EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-04 14:34:51.698115, INFO, INICIO MODULO DATOS DE PAGO ,DatosDePago
+2023-09-04 14:34:59.600447, INFO, FIN MODULO DATOS DE PAGO ,DatosDePago
+2023-09-04 14:34:59.669182, INFO, INICIO MODULO ALTA DE PAGOS ,AltaDePago
+2023-09-04 14:35:18.491336, INFO, FIN MODULO ALTA DE PAGOS ,AltaDePago
+2023-09-04 14:35:18.541835, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:35:26.636021, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:35:26.696682, INFO, Inicio del modulo productos contratados ,ProductosContratados
+2023-09-04 14:36:05.824486, INFO, Fin del modulo productos contratados ,ProductosContratados
+2023-09-04 14:36:32.632684, INFO, INICIO MODULO EMAIL ,Email
+2023-09-04 14:37:26.128415, INFO, FIN MODULO EMAIL ,Email
+2023-09-04 14:37:26.214131, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:37:34.277402, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-04 14:37:34.328156, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 14:37:42.349350, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-04 14:37:42.407379, INFO, "Inicio del modulo " ,Ultimas_Validaciones
+2023-09-04 14:37:42.471385, INFO, "Se pasa la variable de reintentoS a "3+1" Para salir del bucle" ,Ultimas_Validaciones
+2023-09-04 14:37:42.494223, INFO, "Fin del modulo " ,Ultimas_Validaciones
+2023-09-04 14:37:42.554654, INFO, "Incio del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-04 14:37:42.611853, INFO, "Inicio del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-04 14:37:44.938284, INFO, "Fin del modulo Chage Status BPM" ,Change_Status_BPM
+2023-09-04 14:37:44.975471, INFO, "Fin del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-04 14:37:45.001867, TRACE, Fin del modulo Process ,Process

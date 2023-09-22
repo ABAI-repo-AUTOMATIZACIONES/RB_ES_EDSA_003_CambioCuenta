@@ -1,0 +1,99 @@
+Hora, Tipo Registro, Mensaje,Robot
+2023-09-22 19:10:48.708374, TRACE, Incio del modulo Init ,Init
+2023-09-22 19:10:48.755205, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-22 19:10:57.075608, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-22 19:10:57.216248, TRACE, Inicio Ejecucion, RB_ES_EDSA_003_CambioCuenta
+2023-09-22 19:10:57.278755, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-22 19:10:57.466249, TRACE, Fin del modulo Init ,InitConfig
+2023-09-22 19:10:57.528757, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-22 19:10:57.575627, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-22 19:10:57.638131, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-09-22 19:10:57.700621, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-09-22 19:10:59.477234, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-09-22 19:11:00.789654, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-09-22 19:11:00.836541, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-09-22 19:11:00.883416, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-09-22 19:11:00.945940, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-22 19:11:00.992787, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-22 19:11:12.714560, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-22 19:11:12.783568, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-22 19:11:22.911465, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-22 19:11:22.970472, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-22 19:11:23.032466, TRACE, Fin del modulo Init ,Init
+2023-09-22 19:11:23.172468, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-22 19:11:25.583848, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-22 19:11:26.199686, TRACE, Inicio del modulo Process ,Process
+2023-09-22 19:11:26.276683, INFO, Inicio del modulo ,Work_Data
+2023-09-22 19:11:26.811686, INFO, "Inicio del modulo" ,Change_Status_BPM
+2023-09-22 19:11:27.933681, INFO, Fin del modulo ,Change_Status_BPM
+2023-09-22 19:11:27.992289, INFO, Fin del modulo ,Work_Data
+2023-09-22 19:11:28.047686, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-22 19:11:31.214066, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-22 19:11:31.260961, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-22 19:11:35.355847, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-22 19:11:35.418328, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarProductos
+2023-09-22 19:11:37.496542, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarProductos
+2023-09-22 19:11:37.543323, INFO, "Inicio del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-22 19:11:55.710451, INFO, "Intento de click en Buscar numero"+1+" de 10" ,Buscar_Cliente
+2023-09-22 19:11:56.665293, INFO, "Intento de click en Buscar numero"+2+" de 10" ,Buscar_Cliente
+2023-09-22 19:11:56.891529, INFO, "Fin del modulo Buscar_Cliente" ,Buscar_Cliente
+2023-09-22 19:11:56.946625, INFO, INICIO A EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-22 19:12:07.905198, INFO, FIN  EXTRAER INTERACCION ,ExtraerInteracciones
+2023-09-22 19:12:07.967712, INFO, INICIO MODULO DATOS DE PAGO ,DatosDePago
+2023-09-22 19:12:15.531572, INFO, FIN MODULO DATOS DE PAGO ,DatosDePago
+2023-09-22 19:12:15.593571, INFO, INICIO MODULO ALTA DE PAGOS ,AltaDePago
+2023-09-22 19:12:32.907050, INFO, FIN MODULO ALTA DE PAGOS ,AltaDePago
+2023-09-22 19:12:32.962023, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-22 19:12:37.345314, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-22 19:12:37.407829, INFO, Inicio del modulo productos contratados ,ProductosContratados
+2023-09-22 19:13:16.024739, INFO, Fin del modulo productos contratados ,ProductosContratados
+2023-09-22 19:13:39.078811, TRACE, Fin del modulo ,Process
+2023-09-22 19:20:02.152944, TRACE, Inicio del modulo Process ,Process
+2023-09-22 19:20:02.220950, INFO, INICIO MODULO ENVIO POSTAL ,EnvioPostal
+2023-09-22 19:22:56.992778, TRACE, Incio del modulo Init ,Init
+2023-09-22 19:22:57.047781, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-22 19:23:05.363093, INFO, "Inicio del modulo GetAssets" ,GetAssets
+
+2023-09-22 19:23:05.446125, TRACE, Inicio Ejecucion, RB_ES_EDSA_003_CambioCuenta
+2023-09-22 19:23:05.499094, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-22 19:23:05.647095, TRACE, Fin del modulo Init ,InitConfig
+2023-09-22 19:23:05.707095, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-22 19:23:05.759097, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-22 19:23:05.817093, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-09-22 19:23:05.873095, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-09-22 19:23:07.011090, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-09-22 19:23:08.285444, INFO, "Valido que es un correo de Inicio" ,NotificacionesCorreo
+2023-09-22 19:23:08.338440, INFO, Se conecto y envio correo correctamente ,NotificacionesCorreo
+2023-09-22 19:23:08.387438, INFO, Finaliza el modulo de envio de correo ,NotificacionesCorreo
+2023-09-22 19:23:08.444437, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-22 19:23:08.495452, INFO, "Incio del modulo LoginCosmos" ,Login
+2023-09-22 19:23:19.610159, INFO, "Inicio del modulo Obtener Token" ,ObtenerToken
+2023-09-22 19:23:19.673136, INFO, "Fin del modulo Obtener Token" ,ObtenerToken
+2023-09-22 19:23:29.440822, INFO, "Fin del modulo LoginCosmos" ,Login
+2023-09-22 19:23:29.499810, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-22 19:23:29.554818, TRACE, Fin del modulo Init ,Init
+2023-09-22 19:23:29.626815, TRACE, Inicio del modulo GetTransaction ,GetTransaction
+2023-09-22 19:23:31.570234, TRACE, Fin del modulo GetTransaction ,GetTransaction
+2023-09-22 19:23:32.196228, TRACE, Inicio del modulo Process ,Process
+2023-09-22 19:23:32.256239, INFO, INICIO A CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-22 19:23:41.124860, INFO, FIN CERRAR LAS PESTAÑAS ABIERTAS DEL CLIENTE ,CerrarPestanasCliente
+2023-09-22 19:23:41.175859, INFO, INICIO CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-22 19:23:45.947747, INFO, FIN CERRAR LOS CLIENTES ABIERTOS ,CerrarCliente
+2023-09-22 19:23:46.010259, INFO, Inicio del modulo ,Ultimas_Validaciones
+2023-09-22 19:23:46.057127, INFO, Se pasa la variable de reintentos a 3+1 Para salir del bucle ,Ultimas_Validaciones
+2023-09-22 19:23:46.103996, INFO, Fin del modulo ,Ultimas_Validaciones
+2023-09-22 19:23:46.150883, INFO, "Incio del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-22 19:23:46.197754, INFO, "Inicio del modulo" ,Change_Status_BPM
+2023-09-22 19:23:48.150192, INFO, Fin del modulo ,Change_Status_BPM
+2023-09-22 19:23:48.197064, INFO, "Fin del modulo SetTransactionStatus" ,Set_Transaction_Status
+2023-09-22 19:23:48.240147, TRACE, Fin del modulo ,Process
+2023-09-22 19:23:48.755792, TRACE, Inicio del modulo ,EndProcess
+2023-09-22 19:23:48.818296, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-22 19:23:50.962768, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-22 19:23:51.025257, INFO, Inicio del modulo envio de correo ,NotificacionesCorreo
+2023-09-22 19:23:51.072144, INFO, "Conecta con el server de gmail" ,NotificacionesCorreo
+2023-09-22 19:23:52.572142, INFO, "Valida si es un correo de inicio o de fin" ,NotificacionesCorreo
+2023-09-22 19:23:52.634640, ERROR, "Error al intentar enviar el correo de notificación" ,NotificacionesCorreo
+2023-09-22 19:23:52.697160, TRACE, Finalizacion de Ejecucion, RB_ES_EDSA_003_CambioCuenta
+

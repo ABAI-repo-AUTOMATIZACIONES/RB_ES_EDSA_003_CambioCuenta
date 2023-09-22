@@ -1,0 +1,28 @@
+Hora, Tipo Registro, Mensaje,Robot
+
+2023-08-24 07:02:44.000988, TRACE, Inicio Ejecucion, EDSA_006_CambioTitularidad
+2023-08-24 07:02:44.091616, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-24 07:02:44.525488, TRACE, Fin del modulo Init ,InitConfig
+2023-08-24 07:02:44.712277, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-24 07:02:52.806790, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-24 07:02:52.997973, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-24 07:02:58.531181, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-24 07:02:58.645659, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-24 07:02:58.836758, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-24 07:04:01.976177, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-24 07:04:02.035428, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-24 07:04:02.097364, TRACE, Fin del modulo Init ,Init
+2023-08-24 15:07:18.847181, TRACE, Incio del modulo Init ,Init
+
+2023-08-24 15:07:18.962941, TRACE, Inicio Ejecucion, EDSA_006_CambioTitularidad
+2023-08-24 15:07:19.012162, TRACE, Inicio del modulo Init ,InitConfig
+2023-08-24 15:07:19.297856, TRACE, Fin del modulo Init ,InitConfig
+2023-08-24 15:07:19.362789, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-24 15:07:26.903214, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-08-24 15:07:26.979951, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-08-24 15:07:29.958791, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-08-24 15:07:30.012880, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-08-24 15:07:30.067740, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-08-24 15:08:30.957188, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-08-24 15:08:30.991671, TRACE, Fin del submodulo InitApps ,InitApps
+2023-08-24 15:08:31.029176, TRACE, Fin del modulo Init ,Init

@@ -1,0 +1,14 @@
+Hora, Tipo Registro, Mensaje,Robot
+
+2023-09-01 07:50:08.850587, TRACE, Inicio Ejecucion, EDSA_006_CambioTitularidad
+2023-09-01 07:50:08.887990, TRACE, Inicio del modulo Init ,InitConfig
+2023-09-01 07:50:09.238839, TRACE, Fin del modulo Init ,InitConfig
+2023-09-01 07:50:09.289467, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-01 07:50:15.257844, INFO, "Inicio del modulo GetAssets" ,GetAssets
+2023-09-01 07:50:15.314371, TRACE, Inicio del submodulo KillProcess ,KillProcess
+2023-09-01 07:50:18.297701, TRACE, Fin del submodulo KillProcess ,KillProcess
+2023-09-01 07:50:18.338126, TRACE, Inicio del submodulo InitApps ,InitApps
+2023-09-01 07:50:18.378450, INFO, "Incio del modulo LoginCosmos" ,LoginTest
+2023-09-01 07:51:02.246630, INFO, "Fin del modulo LoginCosmos" ,LoginTest
+2023-09-01 07:51:02.280583, TRACE, Fin del submodulo InitApps ,InitApps
+2023-09-01 07:51:02.309642, TRACE, Fin del modulo Init ,Init
